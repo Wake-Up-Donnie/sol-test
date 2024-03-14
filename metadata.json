@@ -2,7 +2,7 @@
     "name": "BAPHOMET COIN",
     "symbol": "BPMT",
     "description": "Only coin on Solana with HORNS",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://github.com/Wake-Up-Donnie/sol-test/blob/main/SOLCOINIMAGE.png",
     "attributes": [
       {
         "trait_type": "Item",
